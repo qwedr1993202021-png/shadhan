@@ -1,0 +1,8 @@
+in the terminal of this project type this in order:
+
+npm run build
+npm install
+npm run dev 
+سيعطيك رابط محلي localhost
+خد الرابط وجربه في المتصفح عندك
+و بعدها يمكنك رفعه على الانترنت عبر مواقع مثل vercel ,  cloudflare pages ,etc...
